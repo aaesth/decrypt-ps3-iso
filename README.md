@@ -1,4 +1,4 @@
-# decrypt-ps3-iso --WIP, PROBABLY HAS TOO MUCH BUGS--
+# decrypt-ps3-iso
 automates the process of decrypting a ps3 games iso file using libray
 
 # how to use
