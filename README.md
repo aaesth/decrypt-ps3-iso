@@ -7,4 +7,4 @@ run chmod +x decrypt-ps3-iso.sh<br>
 run the script
 
 # how to extract the contents of the decrypted image<br>
-run "7z x GAME-decrypted.iso
+run "7z x GAME-decrypted.iso"
